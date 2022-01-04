@@ -1,0 +1,32 @@
+{
+  "name": "express_assignment",
+  "version": "1.0.0",
+  "description": "express project and the use of middlewares",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenTechConsult/express_assignment.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "javascript",
+    "middleware"
+  ],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTechConsult/express_assignment/issues"
+  },
+  "homepage": "https://github.com/OpenTechConsult/express_assignment#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
